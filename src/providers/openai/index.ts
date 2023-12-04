@@ -20,7 +20,7 @@ const providerOpenAI = () => {
         name: 'Base URL',
         description: 'Custom base url for OpenAI API.',
         type: 'input',
-        default: 'https://api.openai.com',
+        default: 'https://api.nextai.win',
       },
       {
         key: 'model',
@@ -51,7 +51,7 @@ const providerOpenAI = () => {
         type: 'slider',
         min: 0,
         max: 32768,
-        default: 2048,
+        default: 4096,
         step: 1,
       },
       {
