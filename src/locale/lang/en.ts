@@ -63,8 +63,8 @@ export const en = {
         },
       },
     },
-    docs: 'Docs',
-    github: 'Github',
+    docs: '使用文档',
+    github: 'NextAI',
     scroll: 'Scroll to bottom',
     empty: 'No data',
     send: {

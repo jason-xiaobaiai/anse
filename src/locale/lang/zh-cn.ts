@@ -63,8 +63,8 @@ export const zhCN = {
         },
       },
     },
-    docs: '文档',
-    github: '源码',
+    docs: '使用文档',
+    github: 'NextAI',
     scroll: '滚动到底部',
     empty: '暂无数据',
     send: {
