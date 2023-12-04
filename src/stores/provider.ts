@@ -1,13 +1,9 @@
 import providerOpenAI from '@/providers/openai'
-import providerAzure from '@/providers/azure'
-import providerReplicate from '@/providers/replicate'
 import { allConversationTypes } from '@/types/conversation'
 import type { BotMeta } from '@/types/app'
 
 export const providerList = [
   providerOpenAI(),
-  providerAzure(),
-  providerReplicate(),
 ]
 
 export const providerMetaList = providerList.map(provider => ({
