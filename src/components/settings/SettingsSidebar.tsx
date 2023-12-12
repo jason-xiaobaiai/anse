@@ -39,7 +39,7 @@ export default () => {
       <footer class="h-14 fi justify-between px-3">
         <ThemeToggle />
         <div text-xs op-40 px-2>
-          <a href="https://gq63lmijfrv.feishu.cn/docx/L2zbd09rRoglklxeGQdcChkRn3L?from=from_copylink" target="_blank" rel="noreferrer" class="hv-foreground">
+          <a href="https://doc-nextai.apifox.cn/" target="_blank" rel="noreferrer" class="hv-foreground">
             {t('docs')}
           </a>
           <span class="px-1"> · </span>
